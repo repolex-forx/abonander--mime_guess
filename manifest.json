@@ -23,6 +23,45 @@
       ],
       "ast": [
         "aggregate/ast/27de5609c1f916fd394d4e22c298f97d724dd26a/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/27de5609c1f916fd394d4e22c298f97d724dd26a.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "mime",
+          "ecosystem": "CARGO",
+          "version": ">=0.1, <0.3",
+          "githubOrg": "hyperium",
+          "githubRepo": "mime",
+          "githubUrl": "https://github.com/hyperium/mime",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "phf",
+          "ecosystem": "CARGO",
+          "version": "0.7",
+          "githubOrg": "rust-phf",
+          "githubRepo": "rust-phf",
+          "githubUrl": "https://github.com/rust-phf/rust-phf",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "unicase",
+          "ecosystem": "CARGO",
+          "version": "1.1",
+          "githubOrg": "seanmonstar",
+          "githubRepo": "unicase",
+          "githubUrl": "https://github.com/seanmonstar/unicase",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "phf_codegen",
+          "ecosystem": "CARGO",
+          "version": "0.7",
+          "githubOrg": "rust-phf",
+          "githubRepo": "rust-phf",
+          "githubUrl": "https://github.com/rust-phf/rust-phf",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
