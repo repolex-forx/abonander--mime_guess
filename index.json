@@ -1,0 +1,11 @@
+{
+  "org": "abonander",
+  "repo": "mime_guess",
+  "versions": [
+    {
+      "commit": "27de5609c1f916fd394d4e22c298f97d724dd26a",
+      "tag": "1.8.0",
+      "parsed_at": "2026-11-21T22:52:50.302637+00:00"
+    }
+  ]
+}
