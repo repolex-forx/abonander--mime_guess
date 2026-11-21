@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "abonander",
+  "repo": "mime_guess",
+  "versions": [
+    {
+      "commit": "27de5609c1f916fd394d4e22c298f97d724dd26a",
+      "parsed_at": "2026-11-21T22:41:51.657020+00:00",
+      "tag": "1.8.0",
+      "filetree": "filetree/27de5609c1f916fd394d4e22c298f97d724dd26a.nq.gz",
+      "blobs": [
+        "blob/e2f5e1bcfe28299efd0704a3f3c9bd6578ea66d6.nq.gz",
+        "blob/506260287f1e1dcb0d66fa599e1d357addce4bb9.nq.gz",
+        "blob/d35bada1477e16af4f5db5fc4c6a71e42c4668f2.nq.gz",
+        "blob/c5350bd24faf9eafc88ab00b3dceb2275077e534.nq.gz",
+        "blob/2294fcb5b6abac1c4129264cd8527898505f0595.nq.gz",
+        "blob/2e18221000e81e0ee52f173a3343087a342152cc.nq.gz",
+        "blob/e3a186285799d19d6773b8c219b45b290d94aca1.nq.gz",
+        "blob/d90db9584417b52827ad06c1ec8c327759def3e4.nq.gz",
+        "blob/4aa2fd1e4d48b7f3d2702367ce47d4e746f3bb3f.nq.gz",
+        "blob/9542ff008ee6fef4cfe8b716e4d2c19624a5f789.nq.gz",
+        "blob/6ab44adb4842d46130c0f40d99dba49ab55d5dcb.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
