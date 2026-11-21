@@ -62,7 +62,9 @@
           "githubUrl": "https://github.com/rust-phf/rust-phf",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/27de5609c1f916fd394d4e22c298f97d724dd26a/chunk-001.nq.gz",
+      "dep": "dep/27de5609c1f916fd394d4e22c298f97d724dd26a.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
